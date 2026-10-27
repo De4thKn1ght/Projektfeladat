@@ -20,8 +20,8 @@ A projekt egy grafikus felülettel rendelkező, egyszerű jegyzetkezelő és fá
   * `tk.Tk()`, `tk.Label`, `tk.Button`, `scrolledtext.ScrolledText`, `messagebox` – A felhasználói felület elemeinek és az ablakoknak a felépítésére szolgáló elemek
 
 * **`sajat.py` (Saját modul):**
-  * `formatum_ellenorzo(szoveg)` – Ellenőrzi, hogy a beírt szöveg nem üres-e
-  * `szoveg_formazasa(szoveg)` – Eltávolítja a felesleges szóközöket és üres karaktereket a szövegből
+  * `VRJ_formatum(szoveg)` – Ellenőrzi, hogy a beírt szöveg nem üres-e
+  * `VRJ_szoveg_forma(szoveg)` – Eltávolítja a felesleges szóközöket és üres karaktereket a szövegből
 
 * **`foprogram.py` (Fő program modul):**
   * `mentes_kattintas()` – Eseménykezelő függvény a mentés gombhoz
