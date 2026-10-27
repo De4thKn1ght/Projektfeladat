@@ -6,7 +6,7 @@
 
 ## Feladat leírása
 A projekt egy grafikus felülettel rendelkező, egyszerű jegyzetkezelő és fájlkezelő alkalmazás Python nyelven. A program teljesíti az alábbi elvárásokat:
-* Tartalmaz legalább egy tanult/bemutatandó modult (`os`), egy grafikus modult (`tkinter`) és egy saját készítésű modult (`segitseg.py`)
+* Tartalmaz legalább egy tanult/bemutatandó modult (`os`), egy grafikus modult (`tkinter`) és egy saját készítésű modult (`sajat.py`)
 * A bemutatásra szánt modul (`os`) legalább 3 különböző függvényét felhasználja és bemutatja
 * Tartalmaz saját függvényeket, saját osztályokat, valamint grafikus eseménykezelést
 
