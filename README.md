@@ -2,7 +2,7 @@
 
 ## Hallgató
 * **Név:** Vörös Richárd János
-* **Neptun-kód / Azonosító:** G7KJNF
+* **Neptun-kód:** G7KJNF
 
 ## Feladat leírása
 A projekt egy grafikus felülettel rendelkező, egyszerű jegyzetkezelő és fájlkezelő alkalmazás Python nyelven. A program teljesíti az alábbi elvárásokat:
